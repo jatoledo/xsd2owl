@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Category">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Record"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Record">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="feed_publisher_name"/>
+        <xs:element ref="feed_publisher_url"/>
+        <xs:element ref="feed_lang"/>
+        <xs:element ref="feed_version"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="feed_publisher_name" type="xs:string"/>
+  <xs:element name="feed_publisher_url" type="xs:anyURI"/>
+  <xs:element name="feed_lang" type="xs:NCName"/>
+  <xs:element name="feed_version" type="xs:integer"/>
+</xs:schema>

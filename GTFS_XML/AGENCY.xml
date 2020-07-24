@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Category>
+	<Record>
+		<agency_id>CRTM</agency_id>
+		<agency_name>Consorcio Regional de Transportes de Madrid</agency_name>
+		<agency_url>http://www.crtm.es</agency_url>
+		<agency_timezone>Europe/Madrid</agency_timezone>
+		<agency_lang>es</agency_lang>
+	</Record>
+</Category>
