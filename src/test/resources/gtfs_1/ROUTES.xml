@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Category>
+	<Record>
+		<route_id>4__1___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>1</route_short_name>
+		<route_long_name>Pinar de Chamartín-Valdecarros</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__1___.aspx</route_url>
+		<route_color>2DBEF0</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>2</route_short_name>
+		<route_long_name>Las Rosas-Cuatro Caminos</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__2___.aspx</route_url>
+		<route_color>ED1C24</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>3</route_short_name>
+		<route_long_name>Villaverde Alto-Moncloa</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__3___.aspx</route_url>
+		<route_color>FFD000</route_color>
+		<route_text_color>000000</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>4</route_short_name>
+		<route_long_name>Pinar de Chamartín-Argüelles</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__4___.aspx</route_url>
+		<route_color>B65518</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>5</route_short_name>
+		<route_long_name>Alameda de Osuna-Casa de Campo</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__5___.aspx</route_url>
+		<route_color>8FD400</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>6</route_short_name>
+		<route_long_name>Circular</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__6___.aspx</route_url>
+		<route_color>98989B</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>7</route_short_name>
+		<route_long_name>Hospital del Henares-Pitis</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__7___.aspx</route_url>
+		<route_color>EE7518</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>8</route_short_name>
+		<route_long_name>Nuevos Ministerios - Aeropuerto T4</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__8___.aspx</route_url>
+		<route_color>EC82B1</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>9</route_short_name>
+		<route_long_name>Paco de Lucía-Arganda del Rey</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__9___.aspx</route_url>
+		<route_color>A60084</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>10</route_short_name>
+		<route_long_name>Hospital del Norte-Puerta del Sur</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__10___.aspx</route_url>
+		<route_color>005AA9</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>11</route_short_name>
+		<route_long_name>Plaza Elíptica-La Fortuna</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__11___.aspx</route_url>
+		<route_color>009B3A</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>12</route_short_name>
+		<route_long_name>MetroSur</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__12___.aspx</route_url>
+		<route_color>A49800</route_color>
+		<route_text_color>FFFFFF</route_text_color>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<agency_id>CRTM</agency_id>
+		<route_short_name>R</route_short_name>
+		<route_long_name>Opera-Príncipe Pío</route_long_name>
+		<route_type>1</route_type>
+		<route_url>http://www.crtm.es/tu-transporte-publico/metro/lineas/4__R___.aspx</route_url>
+		<route_color>FFFFFF</route_color>
+		<route_text_color>005AA9</route_text_color>
+	</Record>
+</Category>

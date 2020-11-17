@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Category>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-001_2016I12_1_1_4__1___</trip_id>
+		<trip_headsign>VALDECARROS</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-VALDECARROS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__1____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-001_2016I12_2_1_4__1___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>VALDECARROS-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__1____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-001_2016I13_1_1_4__1___</trip_id>
+		<trip_headsign>VALDECARROS</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-VALDECARROS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__1____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-001_2016I13_2_1_4__1___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>VALDECARROS-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__1____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-001_2016I14_1_1_4__1___</trip_id>
+		<trip_headsign>VALDECARROS</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-VALDECARROS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__1____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-001_2016I14_2_1_4__1___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>VALDECARROS-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__1____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-001_2016I15_1_1_4__1___</trip_id>
+		<trip_headsign>VALDECARROS</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-VALDECARROS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__1____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__1___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-001_2016I15_2_1_4__1___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>VALDECARROS-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__1____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-002_2016I12_1_1_4__2___</trip_id>
+		<trip_headsign>CUATRO CAMINOS</trip_headsign>
+		<trip_short_name>LA ELIPA-CUATRO CAMINOS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__2____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-002_2016I12_2_1_4__2___</trip_id>
+		<trip_headsign>LAS ROSAS</trip_headsign>
+		<trip_short_name>CUATRO CAMINOS-LA ELIPA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__2____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-002_2016I13_1_1_4__2___</trip_id>
+		<trip_headsign>CUATRO CAMINOS</trip_headsign>
+		<trip_short_name>LA ELIPA-CUATRO CAMINOS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__2____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-002_2016I13_2_1_4__2___</trip_id>
+		<trip_headsign>LAS ROSAS</trip_headsign>
+		<trip_short_name>CUATRO CAMINOS-LA ELIPA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__2____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-002_2016I14_1_1_4__2___</trip_id>
+		<trip_headsign>CUATRO CAMINOS</trip_headsign>
+		<trip_short_name>LA ELIPA-CUATRO CAMINOS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__2____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-002_2016I14_2_1_4__2___</trip_id>
+		<trip_headsign>LAS ROSAS</trip_headsign>
+		<trip_short_name>CUATRO CAMINOS-LA ELIPA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__2____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-002_2016I15_1_1_4__2___</trip_id>
+		<trip_headsign>CUATRO CAMINOS</trip_headsign>
+		<trip_short_name>LA ELIPA-CUATRO CAMINOS</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__2____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__2___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-002_2016I15_2_1_4__2___</trip_id>
+		<trip_headsign>LAS ROSAS</trip_headsign>
+		<trip_short_name>CUATRO CAMINOS-LA ELIPA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__2____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-003_2016I12_1_1_4__3___</trip_id>
+		<trip_headsign>MONCLOA</trip_headsign>
+		<trip_short_name>VILLAVERDE ALTO-MONCLOA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__3____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-003_2016I12_2_1_4__3___</trip_id>
+		<trip_headsign>VILLAVERDE ALTO</trip_headsign>
+		<trip_short_name>MONCLOA-VILLAVERDE ALTO</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__3____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-003_2016I13_1_1_4__3___</trip_id>
+		<trip_headsign>MONCLOA</trip_headsign>
+		<trip_short_name>VILLAVERDE ALTO-MONCLOA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__3____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-003_2016I13_2_1_4__3___</trip_id>
+		<trip_headsign>VILLAVERDE ALTO</trip_headsign>
+		<trip_short_name>MONCLOA-VILLAVERDE ALTO</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__3____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-003_2016I14_1_1_4__3___</trip_id>
+		<trip_headsign>MONCLOA</trip_headsign>
+		<trip_short_name>VILLAVERDE ALTO-MONCLOA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__3____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-003_2016I14_2_1_4__3___</trip_id>
+		<trip_headsign>VILLAVERDE ALTO</trip_headsign>
+		<trip_short_name>MONCLOA-VILLAVERDE ALTO</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__3____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-003_2016I15_1_1_4__3___</trip_id>
+		<trip_headsign>MONCLOA</trip_headsign>
+		<trip_short_name>VILLAVERDE ALTO-MONCLOA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__3____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__3___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-003_2016I15_2_1_4__3___</trip_id>
+		<trip_headsign>VILLAVERDE ALTO</trip_headsign>
+		<trip_short_name>MONCLOA-VILLAVERDE ALTO</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__3____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-004_2016I12_1_1_4__4___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>ARGÜELLES-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__4____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-004_2016I12_2_1_4__4___</trip_id>
+		<trip_headsign>ARGÜELLES</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-ARGÜELLES</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__4____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-004_2016I13_1_1_4__4___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>ARGÜELLES-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__4____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-004_2016I13_2_1_4__4___</trip_id>
+		<trip_headsign>ARGÜELLES</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-ARGÜELLES</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__4____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-004_2016I14_1_1_4__4___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>ARGÜELLES-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__4____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-004_2016I14_2_1_4__4___</trip_id>
+		<trip_headsign>ARGÜELLES</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-ARGÜELLES</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__4____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-004_2016I15_1_1_4__4___</trip_id>
+		<trip_headsign>PINAR DE CHAMARTIN</trip_headsign>
+		<trip_short_name>ARGÜELLES-PINAR DE CHAMARTIN</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__4____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__4___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-004_2016I15_2_1_4__4___</trip_id>
+		<trip_headsign>ARGÜELLES</trip_headsign>
+		<trip_short_name>PINAR DE CHAMARTIN-ARGÜELLES</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__4____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-005_2016I12_1_1_4__5___</trip_id>
+		<trip_headsign>CASA DE CAMPO</trip_headsign>
+		<trip_short_name>ALAMEDA DE OSUNA-CASA DE CAMPO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__5____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-005_2016I12_2_1_4__5___</trip_id>
+		<trip_headsign>ALAMEDA DE OSUNA</trip_headsign>
+		<trip_short_name>CASA DE CAMPO-ALAMEDA DE OSUNA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__5____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-005_2016I13_1_1_4__5___</trip_id>
+		<trip_headsign>CASA DE CAMPO</trip_headsign>
+		<trip_short_name>ALAMEDA DE OSUNA-CASA DE CAMPO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__5____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-005_2016I13_2_1_4__5___</trip_id>
+		<trip_headsign>ALAMEDA DE OSUNA</trip_headsign>
+		<trip_short_name>CASA DE CAMPO-ALAMEDA DE OSUNA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__5____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-005_2016I14_1_1_4__5___</trip_id>
+		<trip_headsign>CASA DE CAMPO</trip_headsign>
+		<trip_short_name>ALAMEDA DE OSUNA-CASA DE CAMPO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__5____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-005_2016I14_2_1_4__5___</trip_id>
+		<trip_headsign>ALAMEDA DE OSUNA</trip_headsign>
+		<trip_short_name>CASA DE CAMPO-ALAMEDA DE OSUNA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__5____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-005_2016I15_1_1_4__5___</trip_id>
+		<trip_headsign>CASA DE CAMPO</trip_headsign>
+		<trip_short_name>ALAMEDA DE OSUNA-CASA DE CAMPO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__5____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__5___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-005_2016I15_2_1_4__5___</trip_id>
+		<trip_headsign>ALAMEDA DE OSUNA</trip_headsign>
+		<trip_short_name>CASA DE CAMPO-ALAMEDA DE OSUNA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__5____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-061_2016I12_1_1_4__6_1__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-061_2016I13_1_1_4__6_1__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-061_2016I14_1_1_4__6_1__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-061_2016I15_1_1_4__6_1__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-062_2016I12_1_1_4__6_2__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-062_2016I13_1_1_4__6_2__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-062_2016I14_1_1_4__6_2__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__6___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-062_2016I15_1_1_4__6_2__</trip_id>
+		<trip_headsign>LAGUNA</trip_headsign>
+		<trip_short_name>Línea Circular Sentido Anti-Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__6_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-071_2016I12_1_1_4__7_A__</trip_id>
+		<trip_headsign>PITIS</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-071_2016I12_2_1_4__7_A__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-071_2016I13_1_1_4__7_A__</trip_id>
+		<trip_headsign>PITIS</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-071_2016I13_2_1_4__7_A__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-071_2016I14_1_1_4__7_A__</trip_id>
+		<trip_headsign>PITIS</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-071_2016I14_2_1_4__7_A__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-071_2016I15_1_1_4__7_A__</trip_id>
+		<trip_headsign>PITIS</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-071_2016I15_2_1_4__7_A__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-072_2016I12_1_1_4__7_B__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-072_2016I12_2_1_4__7_B__</trip_id>
+		<trip_headsign>HOSPITAL DEL HENARES</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-072_2016I13_1_1_4__7_B__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-072_2016I13_2_1_4__7_B__</trip_id>
+		<trip_headsign>HOSPITAL DEL HENARES</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-072_2016I14_1_1_4__7_B__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-072_2016I14_2_1_4__7_B__</trip_id>
+		<trip_headsign>HOSPITAL DEL HENARES</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-072_2016I15_1_1_4__7_B__</trip_id>
+		<trip_headsign>ESTADIO METROPOLITANO</trip_headsign>
+		<trip_short_name>Hospital de Henares - Pitis</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__7_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__7___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-072_2016I15_2_1_4__7_B__</trip_id>
+		<trip_headsign>HOSPITAL DEL HENARES</trip_headsign>
+		<trip_short_name>Pitis - Hospital de Henares</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__7_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-008_2016I12_1_1_4__8___</trip_id>
+		<trip_headsign>AEROPUERTO T4</trip_headsign>
+		<trip_short_name>NUEVOS MINISTERIOS-AEROPUERTO T4</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__8____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-008_2016I12_2_1_4__8___</trip_id>
+		<trip_headsign>NUEVOS MINISTERIOS</trip_headsign>
+		<trip_short_name>AEROPUERTO T4-NUEVOS MINISTERIOS</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__8____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-008_2016I13_1_1_4__8___</trip_id>
+		<trip_headsign>AEROPUERTO T4</trip_headsign>
+		<trip_short_name>NUEVOS MINISTERIOS-AEROPUERTO T4</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__8____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-008_2016I13_2_1_4__8___</trip_id>
+		<trip_headsign>NUEVOS MINISTERIOS</trip_headsign>
+		<trip_short_name>AEROPUERTO T4-NUEVOS MINISTERIOS</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__8____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-008_2016I14_1_1_4__8___</trip_id>
+		<trip_headsign>AEROPUERTO T4</trip_headsign>
+		<trip_short_name>NUEVOS MINISTERIOS-AEROPUERTO T4</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__8____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-008_2016I14_2_1_4__8___</trip_id>
+		<trip_headsign>NUEVOS MINISTERIOS</trip_headsign>
+		<trip_short_name>AEROPUERTO T4-NUEVOS MINISTERIOS</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__8____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-008_2016I15_1_1_4__8___</trip_id>
+		<trip_headsign>AEROPUERTO T4</trip_headsign>
+		<trip_short_name>NUEVOS MINISTERIOS-AEROPUERTO T4</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__8____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__8___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-008_2016I15_2_1_4__8___</trip_id>
+		<trip_headsign>NUEVOS MINISTERIOS</trip_headsign>
+		<trip_short_name>AEROPUERTO T4-NUEVOS MINISTERIOS</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__8____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-091_2016I12_1_1_4__9_A__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-091_2016I12_2_1_4__9_A__</trip_id>
+		<trip_headsign>PACO DE LUCIA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-091_2016I13_1_1_4__9_A__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-091_2016I13_2_1_4__9_A__</trip_id>
+		<trip_headsign>PACO DE LUCIA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-091_2016I14_1_1_4__9_A__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-091_2016I14_2_1_4__9_A__</trip_id>
+		<trip_headsign>PACO DE LUCIA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-091_2016I15_1_1_4__9_A__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-091_2016I15_2_1_4__9_A__</trip_id>
+		<trip_headsign>PACO DE LUCIA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-092_2016I12_1_1_4__9_B__</trip_id>
+		<trip_headsign>ARGANDA DEL REY</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-092_2016I12_2_1_4__9_B__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-092_2016I13_1_1_4__9_B__</trip_id>
+		<trip_headsign>ARGANDA DEL REY</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-092_2016I13_2_1_4__9_B__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-092_2016I14_1_1_4__9_B__</trip_id>
+		<trip_headsign>ARGANDA DEL REY</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-092_2016I14_2_1_4__9_B__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-092_2016I15_1_1_4__9_B__</trip_id>
+		<trip_headsign>ARGANDA DEL REY</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-092_2016I15_2_1_4__9_B__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I16</service_id>
+		<trip_id>4_I16-092_2016I16_1_1_4__9_B__</trip_id>
+		<trip_headsign>ARGANDA DEL REY</trip_headsign>
+		<trip_short_name>PACO DE LUCÍA-ARGANDA DEL REY</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__9_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__9___</route_id>
+		<service_id>4_I16</service_id>
+		<trip_id>4_I16-092_2016I16_2_1_4__9_B__</trip_id>
+		<trip_headsign>PUERTA DE ARGANDA</trip_headsign>
+		<trip_short_name>ARGANDA DEL REY-PACO DE LUCÍA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__9_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-101_2016I12_1_1_4__10_A__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-101_2016I12_2_1_4__10_A__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-101_2016I13_1_1_4__10_A__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-101_2016I13_2_1_4__10_A__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-101_2016I14_1_1_4__10_A__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-101_2016I14_2_1_4__10_A__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-101_2016I15_1_1_4__10_A__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_A___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-101_2016I15_2_1_4__10_A__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_A___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-102_2016I12_1_1_4__10_B__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-102_2016I12_2_1_4__10_B__</trip_id>
+		<trip_headsign>HOSPITAL INFANTA SOFÍA</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-102_2016I13_1_1_4__10_B__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-102_2016I13_2_1_4__10_B__</trip_id>
+		<trip_headsign>HOSPITAL INFANTA SOFÍA</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-102_2016I14_1_1_4__10_B__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-102_2016I14_2_1_4__10_B__</trip_id>
+		<trip_headsign>HOSPITAL INFANTA SOFÍA</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-102_2016I15_1_1_4__10_B__</trip_id>
+		<trip_headsign>TRES OLIVOS</trip_headsign>
+		<trip_short_name>Hospital del Norte - Puerta del Sur</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__10_B___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__10___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-102_2016I15_2_1_4__10_B__</trip_id>
+		<trip_headsign>HOSPITAL INFANTA SOFÍA</trip_headsign>
+		<trip_short_name>Puerta del Sur - Hospital del Norte</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__10_B___2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-011_2016I12_1_1_4__11___</trip_id>
+		<trip_headsign>LA FORTUNA</trip_headsign>
+		<trip_short_name>PLAZA ELIPTICA-LA FORTUNA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__11____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-011_2016I12_2_1_4__11___</trip_id>
+		<trip_headsign>PLAZA ELIPTICA</trip_headsign>
+		<trip_short_name>LA FORTUNA-PLAZA ELIPTICA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__11____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-011_2016I13_1_1_4__11___</trip_id>
+		<trip_headsign>LA FORTUNA</trip_headsign>
+		<trip_short_name>PLAZA ELIPTICA-LA FORTUNA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__11____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-011_2016I13_2_1_4__11___</trip_id>
+		<trip_headsign>PLAZA ELIPTICA</trip_headsign>
+		<trip_short_name>LA FORTUNA-PLAZA ELIPTICA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__11____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-011_2016I14_1_1_4__11___</trip_id>
+		<trip_headsign>LA FORTUNA</trip_headsign>
+		<trip_short_name>PLAZA ELIPTICA-LA FORTUNA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__11____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-011_2016I14_2_1_4__11___</trip_id>
+		<trip_headsign>PLAZA ELIPTICA</trip_headsign>
+		<trip_short_name>LA FORTUNA-PLAZA ELIPTICA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__11____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-011_2016I15_1_1_4__11___</trip_id>
+		<trip_headsign>LA FORTUNA</trip_headsign>
+		<trip_short_name>PLAZA ELIPTICA-LA FORTUNA</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__11____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__11___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-011_2016I15_2_1_4__11___</trip_id>
+		<trip_headsign>PLAZA ELIPTICA</trip_headsign>
+		<trip_short_name>LA FORTUNA-PLAZA ELIPTICA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__11____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-121_2016I12_1_1_4__12_1__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-121_2016I13_1_1_4__12_1__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-121_2016I14_1_1_4__12_1__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-121_2016I15_1_1_4__12_1__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_1___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-122_2016I12_1_1_4__12_2__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-122_2016I13_1_1_4__12_2__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-122_2016I14_1_1_4__12_2__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__12___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-122_2016I15_1_1_4__12_2__</trip_id>
+		<trip_headsign>PUERTA DEL SUR</trip_headsign>
+		<trip_short_name>MetroSur Sentido Horario</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__12_2___1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-ROP_2016I12_1_1_4__R___</trip_id>
+		<trip_headsign>PRINCIPE PIO</trip_headsign>
+		<trip_short_name>OPERA-PRINCIPE PIO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__R____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I12</service_id>
+		<trip_id>4_I12-ROP_2016I12_2_1_4__R___</trip_id>
+		<trip_headsign>OPERA</trip_headsign>
+		<trip_short_name>PRINCIPE PIO-OPERA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__R____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-ROP_2016I13_1_1_4__R___</trip_id>
+		<trip_headsign>PRINCIPE PIO</trip_headsign>
+		<trip_short_name>OPERA-PRINCIPE PIO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__R____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I13</service_id>
+		<trip_id>4_I13-ROP_2016I13_2_1_4__R___</trip_id>
+		<trip_headsign>OPERA</trip_headsign>
+		<trip_short_name>PRINCIPE PIO-OPERA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__R____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-ROP_2016I14_1_1_4__R___</trip_id>
+		<trip_headsign>PRINCIPE PIO</trip_headsign>
+		<trip_short_name>OPERA-PRINCIPE PIO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__R____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I14</service_id>
+		<trip_id>4_I14-ROP_2016I14_2_1_4__R___</trip_id>
+		<trip_headsign>OPERA</trip_headsign>
+		<trip_short_name>PRINCIPE PIO-OPERA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__R____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-ROP_2016I15_1_1_4__R___</trip_id>
+		<trip_headsign>PRINCIPE PIO</trip_headsign>
+		<trip_short_name>OPERA-PRINCIPE PIO</trip_short_name>
+		<direction_id>0</direction_id>
+		<shape_id>4__R____1__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+	<Record>
+		<route_id>4__R___</route_id>
+		<service_id>4_I15</service_id>
+		<trip_id>4_I15-ROP_2016I15_2_1_4__R___</trip_id>
+		<trip_headsign>OPERA</trip_headsign>
+		<trip_short_name>PRINCIPE PIO-OPERA</trip_short_name>
+		<direction_id>1</direction_id>
+		<shape_id>4__R____2__IT_1</shape_id>
+		<wheelchair_accessible>1</wheelchair_accessible>
+	</Record>
+</Category>
