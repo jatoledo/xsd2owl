@@ -1,3 +1,15 @@
+
+
+## Build
+
+The XSD2OWL is build using Maven. A standalone jar can be found in **/target**.
+```bash
+cd xsd2owl
+mvn install
+```
+
+
+
 ## Usage
 
 ### CLI
