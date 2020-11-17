@@ -13,4 +13,4 @@ do
     # memory_average(Kbytes)
 
 done
-rm time.csv
+rm tmp_time.csv
