@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Category">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Record"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Record">
+    <xs:complexType>
+      <xs:choice>
+        <xs:sequence>
+          <xs:element ref="shape_id"/>
+          <xs:element ref="shape_pt_lat"/>
+          <xs:element ref="shape_pt_lon"/>
+          <xs:element ref="shape_pt_sequence"/>
+          <xs:element ref="shape_dist"/>
+        </xs:sequence>
+        <xs:sequence>
+          <xs:element ref="trip_id"/>
+          <xs:element ref="arrival_time"/>
+          <xs:element ref="departure_time"/>
+          <xs:element ref="stop_id"/>
+          <xs:element ref="stop_sequence"/>
+        </xs:sequence>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="shape_id" type="xs:NMTOKEN"/>
+  <xs:element name="shape_pt_lat" type="xs:decimal"/>
+  <xs:element name="shape_pt_lon" type="xs:decimal"/>
+  <xs:element name="shape_pt_sequence" type="xs:integer"/>
+  <xs:element name="shape_dist" type="xs:decimal"/>
+  <xs:element name="trip_id" type="xs:NMTOKEN"/>
+  <xs:element name="arrival_time" type="xs:NMTOKEN"/>
+  <xs:element name="departure_time" type="xs:NMTOKEN"/>
+  <xs:element name="stop_id" type="xs:NCName"/>
+  <xs:element name="stop_sequence" type="xs:integer"/>
+</xs:schema>
