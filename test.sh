@@ -14,4 +14,4 @@ do
 
 done
 rm tmp_time.csv
-curl -i -XPOST http://localhost:8086/query --data-urlencode "q=CREATE DATABASE docker"
+curl -G http://localhost:8086/query -u admin:admin123 --data-urlencode "q=SHOW DATABASES"
