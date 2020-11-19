@@ -1,6 +1,7 @@
 #!/bin/bash
 
 rm time.csv
+echo "elapsed_time,kernel_mode,user_mode,memory_max,memory_average,file">>time.csv
 for file in src/test/resources/netex_reusableComponents/*
 do
     #echo $(basename $file )
