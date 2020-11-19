@@ -1,4 +1,6 @@
 #!/bin/bash
+
+rm time.csv
 for file in src/test/resources/netex_reusableComponents/*
 do
     #echo $(basename $file )
