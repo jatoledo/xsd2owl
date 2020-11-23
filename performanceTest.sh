@@ -9,7 +9,7 @@ do
     echo "***** $(basename $file ) *****"
     for i in 1 2 3 4 5
     do
-    time  -f "run,elapsed_time,kernel_mode,user_mode,memory_max,memory_average,file\n,$i,%e,%S,%U,%M,%K,$(basename $file )" -o tmp_time.csv java -jar target/xsd2owl-1.0.0.jar  -x $file -o output/$(basename $file ).rdf
+    time  -f "run,elapsed_time,kernel_mode,user_mode,memory_max,memory_average,file\n$i,%e,%S,%U,%M,%K,$(basename $file )" -o tmp_time.csv java -jar target/xsd2owl-1.0.0.jar  -x $file -o output/$(basename $file ).rdf
     tail -1 tmp_time.csv >> time.csv
     done
     # elapsed_time(seconds)
