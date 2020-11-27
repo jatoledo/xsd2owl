@@ -36,9 +36,9 @@ options:
 ## Performance results
 
 
-
-![](images\results.jpg)
-
+<p align="center">
+  <img src="images/results.jpg">
+</p>
 
 
 
