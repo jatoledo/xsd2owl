@@ -1,7 +1,7 @@
 #!/bin/bash
 
 rm scalability_time.csv
-echo "run,elapsed_time,kernel_mode,User_mode,memory_max,memory_average,file">>time.csv
+echo "run,elapsed_time,kernel_mode,User_mode,memory_max,memory_average,file">>scalability_time.csv
 for file in src/test/resources/netex_reusableComponents/*
 do
     #echo $(basename $file )
