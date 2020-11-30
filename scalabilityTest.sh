@@ -20,5 +20,5 @@ do
     # memory_average(Kbytes)
 
 done
-rm scalability_time.csv
+rm tmp_time.csv
 #curl -G http://localhost:8086/query -u admin:admin123 --data-urlencode "q=SHOW DATABASES"
